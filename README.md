@@ -57,8 +57,9 @@ Based on the dashboard charts and metrics, the marketing agency should focus on 
 * **Copy Sarah Jenkins' Strategy:** Sarah Jenkins holds the top spot on the *Regional Director Leaderboard*. The agency should have a meeting so David Ross and Michael Chang can learn and copy her exact budget and placement strategies in their own underperforming regions.
 
 ---
-
 ## How to Interact with the Dashboard
 1. Open the `.xlsx` workbook and go to the main dashboard tab.
 2. Go to **View** on the top Excel ribbon and uncheck **Gridlines** to view the clean green background layout.
-3. Click any button on the **Target_Region** or **Audience_Segment** Master Slicers on the side of the menu to filter all data instantly.
+3. Click any button on the **Target_Region** or **Audience_Segment** Master Slicers to filter the dashboard categories.
+4. Use the dynamic **Timeline Control** to adjust the calendar window (e.g., viewing performance month-by-month).
+5. Watch all 5 KPI cards, 4 charts, and the director leaderboard update instantly and simultaneously.
