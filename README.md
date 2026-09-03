@@ -5,6 +5,8 @@ This project turns a messy marketing dataset of over 3,000 rows into a clean, in
 
 The goal was to fix broken data exports, link separate tables using lookups, and build a tracking panel to evaluate campaign sales, website traffic, and manager performance.
 
+![Dashboard Preview](dashboard-preview.png)
+
 ---
 
 ## Technical Workflow & Steps
